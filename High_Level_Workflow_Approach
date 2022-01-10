@@ -1,0 +1,6 @@
+Data Pre-processing of Heart_disease.csv
+Train/Test Split
+Build decision tree
+Perform Bagging
+Apply Random Forest classifier 
+Apply Adaptive Boosting
